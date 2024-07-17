@@ -2,9 +2,9 @@ package com.patrones.factory.abstrac.insurance.abstractions;
 
 import com.patrones.factory.abstrac.insurance.IInsurancePolicyFactory;
 import com.patrones.factory.abstrac.insurance.docs.IDocPolicy;
-import com.patrones.factory.abstrac.insurance.docs.factories.CarInsuranceDocPolicy;
+import com.patrones.factory.abstrac.insurance.docs.implementations.CarInsuranceDocPolicy;
 import com.patrones.factory.abstrac.insurance.policies.IInsurancePolicy;
-import com.patrones.factory.abstrac.insurance.policies.factories.CarInsurancePolicy;
+import com.patrones.factory.abstrac.insurance.policies.implementations.CarInsurancePolicy;
 
 public class CarInsuranceFactory implements IInsurancePolicyFactory {
 

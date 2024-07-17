@@ -1,4 +1,4 @@
-package com.patrones.factory.abstrac.insurance.docs.factories;
+package com.patrones.factory.abstrac.insurance.docs.implementations;
 
 import com.patrones.factory.abstrac.insurance.docs.IDocPolicy;
 
